@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Kunashko_lb3.Models.Product>
+
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 align="center">Product list</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(item => product.Id)
+                </td>
+                <td>
+                   @Html.DisplayFor(item => product.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(item => product.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(item => product.Description)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id=@product.Id>Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

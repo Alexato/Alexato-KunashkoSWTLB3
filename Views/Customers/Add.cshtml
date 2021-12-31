@@ -1,0 +1,28 @@
+﻿@model Kunashko_lb3.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h1>Product</h1>
+    <div class="row">
+        <div>
+            <h5>ID</h5>
+            <p>@Html.DisplayFor(product => product.Id)</p>
+        </div>
+        <div>
+            <h5>Name</h5>
+            <p>@Html.DisplayFor(product => product.Name)</p>
+        </div>
+        <div>
+            <h5>Price</h5>
+            <p>@Html.DisplayFor(product => product.Price)</p>
+        </div>
+        <div>
+            <h5>Description</h5>
+            <p>@Html.DisplayFor(product => product.Description)</p>
+        </div>
+    </div>
+</div>

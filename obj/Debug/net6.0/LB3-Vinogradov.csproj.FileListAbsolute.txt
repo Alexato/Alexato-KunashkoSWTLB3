@@ -1,0 +1,7 @@
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.AssemblyInfoInputs.cache
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.AssemblyInfo.cs
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.csproj.CoreCompileInputs.cache
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.RazorAssemblyInfo.cache
+C:\Users\aloga\OneDrive\Desktop\Лаврёнов переделки лаб\ЛБ3=12122021\181701c-task-3\obj\Debug\net6.0\LB3-Vinogradov.RazorAssemblyInfo.cs
